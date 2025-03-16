@@ -1,5 +1,4 @@
-Real Estate Data Analysis Project
-Introduction to Data Science Class Project
+Real Estate Data Collecton and Analysis Project
 1. Project Overview
 - This project focuses on collecting, analyzing real estate data, identifying factors affecting property prices, and visualizing trends over time. We collect, clean, and analyze data using various Python libraries.
 2. Table of Contents
